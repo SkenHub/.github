@@ -9,7 +9,7 @@
 - **ブログ**：[創造技術研究会ブログ](https://s-kenblog.blogspot.com/)
 - **X (Twitter)**：[mnct_sken](https://x.com/mnct_sken)
 - **qiita**：[qiita](https://qiita.com/S-ken_mnct)
-- **メール**：skenmail2013@gmail.com
+- **メール**：skenmail2013[アットマーク]gmail.com
 
 ## 🚀 主な活動内容
 - 高専ロボコンへの参加
