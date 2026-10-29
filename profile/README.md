@@ -1,17 +1,18 @@
 # 舞鶴高専 創造技術研究会 (S-ken)
 
-## 🛠️ 私たちについて
+## 私たちについて
 私たち「舞鶴高専 創造技術研究会 (S-ken)」は、高専ロボコン優勝を目指し、日々ロボットの設計・製作・制御に取り組んでいます。
 
 メンバー全員で協力し合い、創造性あふれるロボットを開発しています！
 
-## 📢 活動情報
+## 活動情報
 - **ブログ**：[創造技術研究会ブログ](https://s-kenblog.blogspot.com/)
 - **X (Twitter)**：[mnct_sken](https://x.com/mnct_sken)
 - **qiita**：[qiita](https://qiita.com/S-ken_mnct)
 - **メール**：skenmail2013[アットマーク]gmail.com
+- **技術資料**：[S-ken wiki](https://altairu.github.io/sken_training_materials/)
 
-## 🚀 主な活動内容
+## 主な活動内容
 - 高専ロボコンへの参加
 - 関西春ロボコンへの参加
 - 技術力の向上を目的とした交流会の参加
